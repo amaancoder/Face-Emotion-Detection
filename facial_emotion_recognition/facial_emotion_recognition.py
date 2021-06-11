@@ -67,4 +67,4 @@ class EmotionRecognition(object):
             if return_type == 'BGR':
                 return frame
             if return_type == 'RGB':
-                return cv.cvtColor(frame, cv.COLOR_BGR2RGB)
+                return cv.cvtColor(frame, cv.COLOR_BGR2Rjhghghgvhg GB)
